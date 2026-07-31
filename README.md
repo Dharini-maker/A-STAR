@@ -49,7 +49,7 @@
     end (while loop)
 
 ``````
-##PROGRAM
+## PROGRAM
 ```
 
 from collections import defaultdict
@@ -192,3 +192,6 @@ G 0 <br>
 <img width="665" height="382" alt="image" src="https://github.com/user-attachments/assets/754a4b7d-b6e3-4f58-ac34-8c33114233c6" />
 
 Path found: ['A', 'E', 'D', 'G']
+
+## RESULT:
+Thus a graph was constructed and implemantation of A star Search for the same graph was done successfully.
